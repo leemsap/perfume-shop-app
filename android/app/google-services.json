@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "644064769095",
+    "project_id": "leem-a488e",
+    "storage_bucket": "leem-a488e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644064769095:android:93cf2576fb87e568cded62",
+        "android_client_info": {
+          "package_name": "com.example.leem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644064769095-vn9g7krco7pq0d639kd7td5ogbsjphj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe397tMf5JMGXMzP_4p_s3TOpUHc0jrKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644064769095-vn9g7krco7pq0d639kd7td5ogbsjphj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644064769095-hatrj7j26gnek5unkr7oupggvqbhu13d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644064769095:android:3727c9e9c74d25f9cded62",
+        "android_client_info": {
+          "package_name": "com.example.perfume_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644064769095-vn9g7krco7pq0d639kd7td5ogbsjphj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe397tMf5JMGXMzP_4p_s3TOpUHc0jrKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644064769095-vn9g7krco7pq0d639kd7td5ogbsjphj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644064769095-hatrj7j26gnek5unkr7oupggvqbhu13d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
